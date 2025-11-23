@@ -1,0 +1,13 @@
+# 忽略所有文件
+*
+
+# 但是，保留以下文件（白名单）
+!report/
+!report/*.md
+!report/*.pdf
+!imgs/
+!README.md
+!.gitignore
+
+# 如果你想保留 solution.txt 作为备份，也可以加上：
+!solution.txt
